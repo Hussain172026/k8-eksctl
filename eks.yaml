@@ -6,7 +6,7 @@ metadata:
   region: ap-south-2
 
 managedNodeGroups:
-  - name: spot
+  - name: spot2
     instanceType: t3.small
     desiredCapacity: 1
     spot: true
